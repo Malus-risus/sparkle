@@ -72,7 +72,7 @@
     "eslint-plugin-react": "^7.37.5",
     "form-data": "^4.0.3",
     "framer-motion": "12.23.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "meta-json-schema": "^1.19.11",
     "monaco-yaml": "^5.4.0",
     "nanoid": "^5.1.5",
