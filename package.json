@@ -30,7 +30,7 @@
     "@tailwindcss/postcss": "^4.1.11",
     "@tailwindcss/vite": "^4.1.11",
     "@types/crypto-js": "^4.2.2",
-    "adm-zip": "^0.5.16",
+    "adm-zip": "^0.6.0",
     "axios": "^1.10.0",
     "chokidar": "^4.0.3",
     "crypto-js": "^4.2.0",
